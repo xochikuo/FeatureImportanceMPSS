@@ -8,8 +8,10 @@ The code for MPSS_Feature_Importance runs with Python 3.8.5 and Tensorflow 2.4.1
 
 ###############################################
 
-git clone 
+git clone
+
 cd MPSS_Feature_Importance
+
 sudo pip install -r requirements.txt
 
 ###############################################
