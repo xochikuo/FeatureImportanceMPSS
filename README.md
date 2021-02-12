@@ -15,3 +15,5 @@ cd MPSS_Feature_Importance
 sudo pip install -r requirements.txt
 
 ###############################################
+
+python MNIST_example.py
