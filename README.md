@@ -1,4 +1,4 @@
-# FeatureImportanceMPSS
+# MPSS_Feature_Importance
 
 Code for replicating the experiments in the paper Feature Importance via Markov Process State Space Model of Recall.
 
